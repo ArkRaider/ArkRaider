@@ -1,14 +1,30 @@
-<!--
-**ArkRaider/ArkRaider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 0xArkit // Full-Stack Engineer
 
-Here are some ideas to get you started:
+> Recent CS Graduate | Cloud Architect | Linguistics Enthusiast
 
-- 🔭 I’m currently working on C++ amd datastructures
-- 🌱 I’m currently learning to code
-- 👯 I’m looking to collaborate on nothing now
-- 🤔 I’m looking for help with some some nice DSA questions
-- 💬 Ask me about anything
-- 📫 How to reach me: insta..ArkitGupta5
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i play guitar....duh
--->
+---
+
+### [0] .whoami
+I build scalable, end-to-end encrypted systems and high-fidelity fintech dashboards. Currently focused on cloud-native architectures and the intersection of software engineering and formal linguistics.
+
+### [1] .stack()
+- **Frontend:** Next.js, TypeScript, Tailwind CSS (Jet Black / Monospace bias)
+- **Backend:** Node.js, Go, Python, Redis, WebRTC
+- **Cloud:** AWS (EC2, S3, Lambda), Docker, CI/CD
+- **Data:** Java, DSA, RAG Systems
+
+### [2] .projects
+- **PhantomLink:** End-to-end encrypted stealth communication.
+- **Voix:** Real-time multimedia collaboration via WebRTC.
+- **QuantEdge:** High-fidelity financial technology dashboard.
+
+### [3] .status
+- 🔭 **Current:** Building stealth-focused networking tools.
+- 🌱 **Learning:** Deep-diving into phonetic morphology & AWS optimizations.
+- 💬 **Ask me about:** Minimalist UI, IPA transcriptions, or Java internals.
+- ⚡ **Fun fact:** I play guitar... and my code is more rhythmic than my strumming.
+
+---
+
+### .connect()
+[ LinkedIn ] | [ Portfolio ] | [ Twitter/X ]
