@@ -27,4 +27,4 @@ I build scalable, end-to-end encrypted systems and high-fidelity fintech dashboa
 ---
 
 ### .connect()
-[ LinkedIn ] | [ Portfolio ] | [ Twitter/X ]
+[ LinkedIn : https://www.linkedin.com/in/arkit-gupta-953b55251/] 
